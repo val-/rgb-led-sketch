@@ -15,7 +15,7 @@ Designed for [karma-led-reporter][0]
 
 ## License
 
-karma-led-reporter is licensed under the [MIT License][1].
+rgb-led-sketch is licensed under the [MIT License][1].
 
   [0]: https://github.com/val-/karma-led-reporter
   [1]: http://opensource.org/licenses/MIT
